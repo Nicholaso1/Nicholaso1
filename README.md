@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nicholas
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning coding at 42 Kuala Lumpur
