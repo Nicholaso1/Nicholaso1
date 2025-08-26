@@ -30,15 +30,3 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=214mgkdgbnlmyf6lmdwt47wwi&count=3&width=500&unique=1" alt="Spotify Recently Played" />
-</div>
-
-###
-
-![Botan GIF](https://media.tenor.com/8K9wOVKPUSwAAAAC/botan-botan-yu-yu-hakusho.gif)
-
-###
