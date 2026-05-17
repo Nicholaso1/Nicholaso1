@@ -1,4 +1,4 @@
-<h3 align="center">Helloo! Nicholas Oswald | Final Year Industrial Statistics Student @ Sunway University</h3>
+<h3 align="center">Helloo! Nicholas Oswald</h3>
 
 ###
 
